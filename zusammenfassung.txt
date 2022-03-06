@@ -1,0 +1,26 @@
+Regular Expressions Zusammenfassung
+
+Praxisbeispiele
+- Beispiele (https://regex101.com/r/2ICezb/14)
+Theorie
+-First Abstractions (https://regex101.com/r/djv8iH/3)
+-isExactlyHexColor (https://regex101.com/r/XmkZqa/3)
+-Negativer Zeichenbereich (https://regex101.com/r/Jgh9RL/3)
+-Nicht druckbare Zeichen (https://regex101.com/r/XCLnjq/2)
+-Zeichenklassen (https://regex101.com/r/MnnhPB/2)
+-Mengenangaben (https://regex101.com/r/Sys2jO/1)
+-Gier und Faulheit - Greediness and Lazyness (https://regex101.com/r/hNgBjY/1)
+-Gruppen (https://regex101.com/r/pudaRZ/1)
+-Trennzeichen (https://regex101.com/r/GoMphD/1)
+-Trennzeichen - Delimiters (https://regex101.com/r/O3ULdB/1)
+-Metazeichen und Escaping (https://regex101.com/r/pkwTYw/1)
+-Anker (https://regex101.com/r/RGvl7p/1)
+-Modifizierer / Regex Flags (https://regex101.com/r/VlysZZ/1)
+-Rückbezüge (https://regex101.com/r/a35ArQ/1)
+-Zeichenketten ersetzen - String replacements (https://regex101.com/r/lz7Rty/1)
+-Behauptungen - Assertions (https://regex101.com/r/P5elVY/1)
+-Behauptungen: Lookahead und Lookbehind - Assertions (https://regex101.com/r/4Dh9Ms/1)
+
+See also
+-Cheat Sheet (https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
+-wikipedia (https://en.wikipedia.org/wiki/Regular_expression)
